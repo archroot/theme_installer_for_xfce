@@ -1,3 +1,3 @@
-Автоматическая установка темы оформление на xfce
+Автоматическая установка темы оформление на xfce4
 
-curl https://raw.githubusercontent.com/archroot/theme_installer_for_xfce/master/install.sh | sh 
+curl https://raw.githubusercontent.com/archroot/theme_installer_for_xfce4/master/install.sh | sh 
